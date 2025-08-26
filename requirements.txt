@@ -1,0 +1,5 @@
+Flask
+sentence-transformers
+faiss-cpu
+google-generativeai
+gunicorn
