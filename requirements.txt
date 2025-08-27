@@ -1,5 +1,6 @@
 Flask
+requests
 sentence-transformers
 faiss-cpu
-google-generativeai
+numpy
 gunicorn
